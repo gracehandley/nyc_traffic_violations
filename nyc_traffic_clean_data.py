@@ -1,3 +1,8 @@
+# Author: Grace Handley
+# Version 1.0
+# Date created: 2025-02-22
+# Date updated: 2025-02-22
+
 import pandas as pd
 pd.set_option('display.float_format', '{:.2f}'.format)
 
