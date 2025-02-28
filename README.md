@@ -15,3 +15,10 @@ pandas     # Data manipulation and analysis
 numpy      # Numerical operations
 matplotlib # Data visualization
 seaborn    # Statistical data visualization
+```
+
+To install all required dependencies, first ensure you have Python installed. Then run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
